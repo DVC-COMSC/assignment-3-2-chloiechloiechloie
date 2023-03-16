@@ -3,7 +3,7 @@ def main():
     # Comlete your code here
     ##################################################
     
-    email = input('Enter your string ')
+    email = input('Enter your email ')
     
     flag = True
     if not email[0].isalpha():
